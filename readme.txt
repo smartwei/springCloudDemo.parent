@@ -1,7 +1,5 @@
 IDEA Spring cloud微服务项目搭建(配置中心config/注册中心Eureka/网关路由zuul/网关路由getway)
-图文教程地址：
-https://www.cnblogs.com/q149072205/p/14081185.html
-
+[图文教程地址](https://www.cnblogs.com/q149072205/p/14081185.html)
 项目结构如下
 demo.parent
     demo.parent
